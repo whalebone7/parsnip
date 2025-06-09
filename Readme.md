@@ -37,7 +37,8 @@ python3 parsnip.py -i jsurls.txt >> paramswordlist.txt
 <img width="1165" alt="Screenshot 2025-06-09 at 19 52 54" src="https://github.com/user-attachments/assets/1b67df16-0ac3-4c2a-903b-06cd0c7262d7" />
 
 
-<img width="1167" alt="Screenshot 2025-06-09 at 19 52 38" src="https://github.com/user-attachments/assets/ff9132e0-bbb0-4774-aa98-bd133036dd7e" />
+<img width="1164" alt="Screenshot 2025-06-09 at 20 04 57" src="https://github.com/user-attachments/assets/a2a55a80-5727-492e-83d6-313285bdb9fa" />
+
 
 
 ###  Happy hacking! 🥕
